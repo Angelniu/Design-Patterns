@@ -20,4 +20,4 @@
 不希望客户端知道复杂的、与算法相关的数据结构，在具体策略类中封装算法和相关的数据结构，提高算法的保密性与安全性。  
     
 ## 参考
-http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html
+http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html  
