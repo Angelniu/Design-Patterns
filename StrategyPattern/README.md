@@ -18,3 +18,6 @@
 一个系统需要动态地在几种算法中选择一种。
 如果一个对象有很多的行为，如果不用恰当的模式，这些行为就只好使用多重的条件选择语句来实现。
 不希望客户端知道复杂的、与算法相关的数据结构，在具体策略类中封装算法和相关的数据结构，提高算法的保密性与安全性。
+  
+## 参考
+http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html
