@@ -29,3 +29,4 @@
 
 ## 参考
 https://www.tianmaying.com/tutorial/singleton
+http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/singleton.html
